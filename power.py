@@ -1,7 +1,7 @@
 import math
 
 def square(x):
-    pass
+    return x**2
 
 def cube(x):
     pass
